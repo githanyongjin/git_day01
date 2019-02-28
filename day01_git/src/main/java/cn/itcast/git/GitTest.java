@@ -11,6 +11,8 @@ public class GitTest {
     public void test(){
         int i = 0;
 
+        int j =1;
+
         System.out.println(i);
     }
 }
