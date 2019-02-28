@@ -7,6 +7,10 @@
     <groupId>cn.itcast</groupId>
     <artifactId>day01_git</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <properties/>
+    <dependencies>
+
+    </dependencies>
 
     
 </project>
