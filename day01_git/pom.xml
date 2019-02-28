@@ -15,6 +15,12 @@
     <dependencies>
 
     </dependencies>
+    <packaging>
+
+
+
+
+    </packaging>
 
 </dependencyManagement>
 </project>
